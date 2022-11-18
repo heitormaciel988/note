@@ -25,7 +25,9 @@ text-align: center;
 
 main {  margin: auto;  
 width: 99%;  
-text-align: justify;}
+text-align: justify;
+font-size: 1.2em;
+}
 
 article > p {  
 text-indent: 20px;}
@@ -37,12 +39,21 @@ li {  margin-bottom: 20px;
 
 h1,h2,p {  margin: 30px;}
 
-img {  margin: 50px;}
+img {
+width: 70%;
+margin: auto;
+display: block;
+
+}
 
 footer {   
  background-color: black;  
  color:white;  
- padding: 50px;  }
+ margin: 10px;  
+ 
+
+
+}
 
  div#menu {
 
